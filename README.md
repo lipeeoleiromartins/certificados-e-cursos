@@ -5,7 +5,8 @@ Repositório dedicado ao armazenamento, organização e validação de certifica
 ---
 
 ## 📊 Resumo do Portfólio
-* **Cursos Concluídos:** 2
+* **Cursos Concluídos:** 3
+* **Carga Horária Total:** 15,5h
 * **Foco Atual:** Python Backend, Data Science & Cybersecurity
 
 ---
@@ -16,10 +17,11 @@ Repositório dedicado ao armazenamento, organização e validação de certifica
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Desenvolvimento** | Python | Santander Open Academy | 8h | 07/09/2026 | [Ver PDF](./Certificado%20em%20pyton.pdf) |
 | **Data Science** | Introdução à Ciência de Dados | IE University / Santander | 6h | 08/09/2026 | [Ver PDF](./Certificado%20-%20Introdução%20à%20Ciência%20de%20Dados.pdf) |
+| **Cybersecurity** | Fundamentos de Segurança Cibernética | IBM / Santander | 1.5h | 08/09/2026 | [Ver PDF](./Certificado%20de%20Segurança%20Cibernetica.pdf) |
 
 ---
 
 ## 🎯 Competências Mapeadas
 * **Linguagem Python:** Lógica de programação, sintaxe, estruturas de dados, controle de fluxo e manipulação de scripts.
 * **Ciência de Dados:** Classificação de variáveis (discretas, contínuas e categóricas), tratamento de ruídos, identificação de *outliers* e fundamentos do ciclo de análise.
-* **Cibersegurança:** Tipos de ameaças (internas e externas), vetores de engenharia social (phishing) e enquadramento legal contra acesso não autorizado.
+* **Cibersegurança:** Conceitos essenciais de segurança da informação, vetores de ataque (phishing e engenharia social), ameaças internas/externas e resposta a incidentes.
