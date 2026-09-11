@@ -25,3 +25,10 @@ Repositório dedicado ao armazenamento, organização e validação de certifica
 * **Linguagem Python:** Lógica de programação, sintaxe, estruturas de dados, controle de fluxo e manipulação de scripts.
 * **Ciência de Dados:** Classificação de variáveis (discretas, contínuas e categóricas), tratamento de ruídos, identificação de *outliers* e fundamentos do ciclo de análise.
 * **Cibersegurança:** Conceitos essenciais de segurança da informação, vetores de ataque (phishing e engenharia social), ameaças internas/externas e resposta a incidentes.
+
+### 📜 Certificações
+
+* **Excel — Santander Open Academy** (8 horas)[cite: 1]
+  * **Conclusão:** 11/09/2026[cite: 1]
+  * **Código de Validação:** `OA-2026-0911003184469`[cite: 1]
+  * **Comprovante:** [Ver Certificado](./Certificado%20Excel.pdf)
